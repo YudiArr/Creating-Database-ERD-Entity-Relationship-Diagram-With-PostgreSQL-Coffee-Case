@@ -22,5 +22,29 @@ Your final assignment will be graded by your peers who are also completing this 
 #### Task 9: Import data into a MySQL database using phpMyAdmin GUI tool (4 pts)
 #### Task 10: Import data into a MySQL database (4 pts)
 
-How to submit:
-A screenshot in JPEG or .png format is required to be submitted for each task. The screenshots will be uploaded in the relevant sections.
+you will use PostgreSQL Database, MySQL. 
+These are all relational database management systems (RDBMS) designed to store, manipulate, and retrieve the data efficiently.
+
+In this project, you will be working with a subset of data from the Coffee shop sample data.
+
+You will use a modified version of the data for the project, so to succeed in the project, download the linked files when prompted in the instructions. You do not need to use any data from the source.
+
+In your scenario, you will be working with data from the following sources:
+
+1. Staff information held in a spreadsheet at headquarters (HQ)
+2. Sales outlet information held in a spreadsheet at HQ
+3. Sales data output as a CSV file from the POS system in the sales outlets
+4. Customer data output as a CSV file from a custom customer relationship management system
+5. Product information maintained in a spreadsheet exported from your supplier's database
+
+After completing this lab, you will be able to:
+
+1. Identify entities
+2. Identity attributes
+3. Create an entity relationship diagram (ERD) using the pgAdmin ERD tool
+4. Normalize tables
+5. Define keys and relationships
+6. Create database objects by generating and running the SQL script from the ERD tool
+7. Create a view and export the data
+8. Create a materialized view and export the data
+9. Import data into a MySQL database using phpMyAdmin GUI tool
